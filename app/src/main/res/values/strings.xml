@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OpenVision</string>
+    <string name="tex1">Welcome to</string>
+    <string name="tex2"> CamStudy</string>
+    <string name="tex3">Explore the world through your camera</string>
+    <string name="tex4">Tap to start</string>
+</resources>
